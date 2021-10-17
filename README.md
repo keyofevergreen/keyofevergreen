@@ -11,3 +11,9 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-2C2C2C?style=for-the-badge&logo=SASS&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/-Figma-2C2C2C?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
 ![Figma](https://img.shields.io/badge/-MUI-2C2C2C?style=for-the-badge&logo=MaterialUI&logoColor=FFFFFF)
+
+
+### Contact me
+[![Telegram](https://img.shields.io/badge/-Telegram-2C2C2C?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/keyofevergreen)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2C2C2C?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.cn/in/dan-zverev-33841b215)
+[![Twitter](https://img.shields.io/badge/-Twitter-2C2C2C?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/keyofevergreen)
