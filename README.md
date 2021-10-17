@@ -1,5 +1,13 @@
 ![Header](https://github.com/keyofevergreen/keyofevergreen/blob/main/assets/69e6f674d4ab40834c31493d21d9560c.gif)
 
-About me
+## I'm a beginner React Developer from Saint Petersburg
 
-Languages and Tools
+### Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-2C2C2C?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/-HTML-2C2C2C?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/-CSS-2C2C2C?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/-React-2C2C2C?style=for-the-badge&logo=React&logoColor=FFFFFF)
+![Redux](https://img.shields.io/badge/-Redux-2C2C2C?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
+![SCSS](https://img.shields.io/badge/-SCSS-2C2C2C?style=for-the-badge&logo=SASS&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/-Figma-2C2C2C?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/-MUI-2C2C2C?style=for-the-badge&logo=MaterialUI&logoColor=FFFFFF)
