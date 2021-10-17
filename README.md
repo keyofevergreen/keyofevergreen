@@ -19,3 +19,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2C2C2C?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/keyofevergreen)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2C2C2C?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.cn/in/dan-zverev-33841b215)
 [![Twitter](https://img.shields.io/badge/-Twitter-2C2C2C?style=for-the-badge&logo=Twitter&logoColor=FFFFFF)](https://twitter.com/keyofevergreen)
+[![dany2zverev@gmail.com](https://img.shields.io/badge/-dany2zverev&#64;gmail&#46;com-2C2C2C?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:dany2zverev@gmail.com)
