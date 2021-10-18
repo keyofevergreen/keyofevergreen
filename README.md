@@ -1,6 +1,8 @@
 ![Header](https://github.com/keyofevergreen/keyofevergreen/blob/main/assets/69e6f674d4ab40834c31493d21d9560c.gif)
 
-## I'm a beginner React Developer from Saint Petersburg
+## I'm a beginner Frontend Developer from Saint Petersburg
+
+Greetings! I am moving from another sphere and now I am engaged in self-education. I am patient, motivated and determined to get into the field of IT because I want to develop in this direction and make accessible interfaces for millions of people.
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3E3E3E?style=for-the-badge&logo=JavaScript&logoColor=4DB669)
