@@ -6,9 +6,10 @@ Greetings! I am moving from another sphere and now I am engaged in self-educatio
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-3E3E3E?style=for-the-badge&logo=JavaScript&logoColor=4DB669)
+![React](https://img.shields.io/badge/-React-3E3E3E?style=for-the-badge&logo=React&logoColor=4DB669)
+![Vue 3](https://img.shields.io/badge/-Vue3-3E3E3E?style=for-the-badge&logo=Vue.js&logoColor=4DB669)
 ![HTML](https://img.shields.io/badge/-HTML-3E3E3E?style=for-the-badge&logo=HTML5&logoColor=3E80C6)
 ![CSS](https://img.shields.io/badge/-CSS-3E3E3E?style=for-the-badge&logo=CSS3&logoColor=3E80C6)
-![React](https://img.shields.io/badge/-React-3E3E3E?style=for-the-badge&logo=React&logoColor=4DB669)
 ![Redux](https://img.shields.io/badge/-Redux-3E3E3E?style=for-the-badge&logo=Redux&logoColor=3E80C6)
 ![SCSS](https://img.shields.io/badge/-SCSS-3E3E3E?style=for-the-badge&logo=SASS&logoColor=3E80C6)
 ![Figma](https://img.shields.io/badge/-Figma-3E3E3E?style=for-the-badge&logo=Figma&logoColor=3E80C6)
