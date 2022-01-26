@@ -12,8 +12,7 @@ Greetings! I am moving from another sphere and now I am engaged in self-educatio
 ![CSS](https://img.shields.io/badge/-CSS-3E3E3E?style=for-the-badge&logo=CSS3&logoColor=3E80C6)
 ![Redux](https://img.shields.io/badge/-Redux-3E3E3E?style=for-the-badge&logo=Redux&logoColor=3E80C6)
 ![SCSS](https://img.shields.io/badge/-SCSS-3E3E3E?style=for-the-badge&logo=SASS&logoColor=3E80C6)
-![Figma](https://img.shields.io/badge/-Figma-3E3E3E?style=for-the-badge&logo=Figma&logoColor=3E80C6)
-![MUI](https://img.shields.io/badge/-MUI-3E3E3E?style=for-the-badge&logo=MaterialUI&logoColor=3E80C6)
+![Ant Design](https://img.shields.io/badge/-AntDesign-3E3E3E?style=for-the-badge&logo=Ant-Design&logoColor=3E80C6)
 
 ### Statistic
 [![keyofevergreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyofevergreen&theme=dark&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)\
