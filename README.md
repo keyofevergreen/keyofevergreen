@@ -2,7 +2,7 @@
 ![Header](https://github.com/keyofevergreen/keyofevergreen/blob/main/assets/69e6f674d4ab40834c31493d21d9560c.gif)
 
 ### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-3E3E3E?style=for-the-badge&logo=JavaScript&logoColor=4DB669)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3E3E3E?style=for-the-badge&logo=TypeScript&logoColor=4DB669)
 ![React](https://img.shields.io/badge/-React-3E3E3E?style=for-the-badge&logo=React&logoColor=4DB669)
 ![Vue 3](https://img.shields.io/badge/-Vue3-3E3E3E?style=for-the-badge&logo=Vue.js&logoColor=4DB669)
 ![HTML](https://img.shields.io/badge/-HTML-3E3E3E?style=for-the-badge&logo=HTML5&logoColor=3E80C6)
