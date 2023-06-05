@@ -16,5 +16,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyofevergreen&exclude_repo=layout-designer-project-lvl1,layout-designer-project-lvl2&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### 🤙Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-5599FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF)](https://t.me/keyofevergreen)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-5599FF?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.cn/in/dan-zverev-33841b215)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-5599FF?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/dan-zverev/)
 [![dany2zverev@gmail.com](https://img.shields.io/badge/-dany2zverev&#64;gmail&#46;com-5599FF?style=for-the-badge&logo=Gmail&logoColor=FFFFFF)](mailto:dany2zverev@gmail.com)
